@@ -1,0 +1,12 @@
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.deps.json
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.dll
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.pdb
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfoInputs.cache
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfo.cs
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.csproj.CoreCompileInputs.cache
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.sourcelink.json
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.dll
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll

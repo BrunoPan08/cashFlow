@@ -4,6 +4,7 @@ namespace CashFlow.Api.Middlewere
 {
     public class CultureMiddleware
     {
+        
         private readonly RequestDelegate _next;
         public CultureMiddleware(RequestDelegate next)
         {
@@ -12,13 +13,16 @@ namespace CashFlow.Api.Middlewere
 
         public async Task Invoke(HttpContext context)
         {
-            var culture = context.Request.Headers.AcceptLanguage.FirstOrDefault();
+            var supportedLanguages = CultureInfo.GetCultures(CultureTypes.AllCultures).ToList();
+
+            var requestedCulture = context.Request.Headers.AcceptLanguage.FirstOrDefault();
 
             var cultureInfo = new CultureInfo("en");
 
-            if(string.IsNullOrEmpty(culture) == false)
+            if(string.IsNullOrEmpty(requestedCulture) == false 
+                && supportedLanguages.Exists(language => language.Name.Equals(requestedCulture)))
             {
-                cultureInfo = new CultureInfo(culture);
+                cultureInfo = new CultureInfo(requestedCulture);
             }
 
             CultureInfo.CurrentCulture = cultureInfo;

@@ -1,0 +1,16 @@
+C:\cource-c#\RocketSeat\CashFlow\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.deps.json
+C:\cource-c#\RocketSeat\CashFlow\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.dll
+C:\cource-c#\RocketSeat\CashFlow\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.pdb
+C:\cource-c#\RocketSeat\CashFlow\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Domain.dll
+C:\cource-c#\RocketSeat\CashFlow\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Domain.pdb
+C:\cource-c#\RocketSeat\CashFlow\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.csproj.AssemblyReference.cache
+C:\cource-c#\RocketSeat\CashFlow\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\cource-c#\RocketSeat\CashFlow\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.AssemblyInfoInputs.cache
+C:\cource-c#\RocketSeat\CashFlow\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.AssemblyInfo.cs
+C:\cource-c#\RocketSeat\CashFlow\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.csproj.CoreCompileInputs.cache
+C:\cource-c#\RocketSeat\CashFlow\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.sourcelink.json
+C:\cource-c#\RocketSeat\CashFlow\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.84FCB40E.Up2Date
+C:\cource-c#\RocketSeat\CashFlow\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.dll
+C:\cource-c#\RocketSeat\CashFlow\CashFlow.Infrastructure\obj\Debug\net8.0\refint\CashFlow.Infrastructure.dll
+C:\cource-c#\RocketSeat\CashFlow\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.pdb
+C:\cource-c#\RocketSeat\CashFlow\CashFlow.Infrastructure\obj\Debug\net8.0\ref\CashFlow.Infrastructure.dll

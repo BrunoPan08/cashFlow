@@ -1,0 +1,12 @@
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Communication\bin\Debug\net8.0\CashFlow.Communication.deps.json
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Communication\bin\Debug\net8.0\CashFlow.Communication.dll
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Communication\bin\Debug\net8.0\CashFlow.Communication.pdb
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.AssemblyInfoInputs.cache
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.AssemblyInfo.cs
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.csproj.CoreCompileInputs.cache
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.sourcelink.json
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.dll
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\refint\CashFlow.Communication.dll
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.pdb
+C:\cource-c#\RocketSeat\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\ref\CashFlow.Communication.dll

@@ -53,6 +53,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.6.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -132,6 +146,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.6.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[8.1.2, )"
@@ -216,6 +234,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.6.3, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[12.0.0, )"
@@ -269,7 +291,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\cource-c#\\RocketSeat\\CashFlow\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
+                "projectPath": "C:\\cource-c#\\RocketSeat\\CashFlow\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -286,6 +312,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.6.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -351,6 +383,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.6.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -416,6 +454,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.6.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

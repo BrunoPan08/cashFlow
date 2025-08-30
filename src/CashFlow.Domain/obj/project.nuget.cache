@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0QFvq11o2v4=",
+  "dgSpecHash": "hNK5m88pTQA=",
   "success": true,
   "projectFilePath": "C:\\cource-c#\\RocketSeat\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno\\.nuget\\packages\\bogus\\35.6.3\\bogus.35.6.3.nupkg.sha512"
+  ],
   "logs": []
 }
